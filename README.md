@@ -72,8 +72,8 @@
 ### 📫 Contact
 
 - 📧 Email: xiaxp@umich.edu  
-- 🌐 Google Scholar / Personal Website (coming soon)
-- 💼 LinkedIn
+- 🌐 [Google Scholar](https://scholar.google.com/citations?user=nsRF63AAAAAJ&hl=en) / Personal Website (coming soon)
+- 💼 [LinkedIn](https://www.linkedin.com/in/xingpeng-xia-79b5a8254/)
 
 ---
 
