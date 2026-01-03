@@ -50,18 +50,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RichardXIA001&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RichardXIA001&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RichardXIA001&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=RichardXIA001&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardXIA001&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardXIA001&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ### 🌱 Currently Working On
 
